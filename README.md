@@ -1,4 +1,4 @@
-# gijyutsu-shoten
+# 技術書典
 技術書典のサポートページです。
 
 ## Elasticsearch NEXT STEP
