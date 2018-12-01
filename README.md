@@ -10,7 +10,7 @@
 | ページ | 場所  | 誤 | 正 |
 | - | - |-|-|
 |P.8|1行目|**敷きい**られている|**仕切**られている|
-|P.8|表1.2|BASENAMEの説明がない|URL から"http://acro-engineer.hatenablog.com/entry/"を除いた部分|
+|P.8|表1.2|BASENAMEの説明がない|URLから http://acro-engineer.hatenablog.com/entry/ を除いた部分|
 |P.12|表1.3|PieChart|Pie Chart|
 |P.12|表1.3|カテゴーのコントロールパネル|カテゴ**リ**のコントロールパネル|
 |P.12|表1.3|Tag Clo**w**d|Tag Clo**u**d|
